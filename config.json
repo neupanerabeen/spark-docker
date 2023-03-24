@@ -1,0 +1,5 @@
+{
+	"number_of_workers":2,
+	"memory_limit":"512m",
+	"disk_limit":"1g"
+}

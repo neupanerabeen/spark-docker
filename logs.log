@@ -1,0 +1,296 @@
+[13:52:07] {create_cluster.py:75} INFO - Fetching if network with name:cluster_network already exists
+[13:52:07] {create_cluster.py:77} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[13:52:07] {create_cluster.py:87} INFO - Preparing containers
+[13:52:07] {create_cluster.py:92} INFO - preparing master1
+[14:02:50] {create_cluster.py:81} INFO - Fetching if network with name:cluster_network already exists
+[14:02:50] {create_cluster.py:83} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[14:02:50] {create_cluster.py:87} INFO - Removing network with id:825c7144e7
+[14:02:50] {create_cluster.py:93} INFO - Preparing containers
+[14:02:50] {create_cluster.py:98} INFO - preparing master1
+[15:06:14] {create_cluster.py:67} INFO - downloading data
+[15:06:14] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:14] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1054b7a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:06:14] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:14] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1054b7880>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:06:14] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:14] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1054b7a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:06:29] {create_cluster.py:67} INFO - downloading data
+[15:06:29] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:29] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102837a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:06:29] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:29] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102837880>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:06:29] {create_cluster.py:76} WARNING - Cannot download spark
+[15:06:29] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102837a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:28] {create_cluster.py:67} INFO - downloading data
+[15:07:28] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:28] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103a77a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:28] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:28] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103a778b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:28] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:28] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103a77a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:30] {create_cluster.py:67} INFO - downloading data
+[15:07:30] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:30] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x112af7a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:30] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:30] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x112af78b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:07:30] {create_cluster.py:76} WARNING - Cannot download spark
+[15:07:30] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x112af7a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:09:27] {create_cluster.py:67} INFO - downloading data
+[15:09:27] {create_cluster.py:76} WARNING - Cannot download spark
+[15:09:27] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10166ba00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:09:27] {create_cluster.py:76} WARNING - Cannot download spark
+[15:09:27] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10166b8b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:09:27] {create_cluster.py:76} WARNING - Cannot download spark
+[15:09:27] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10166ba00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:09:27] {create_cluster.py:95} INFO - Fetching if network with name:cluster_network already exists
+[15:10:57] {create_cluster.py:67} INFO - downloading data
+[15:10:57] {create_cluster.py:76} WARNING - Cannot download spark
+[15:10:57] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1057eba00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:10:57] {create_cluster.py:76} WARNING - Cannot download spark
+[15:10:57] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1057eb8b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:10:57] {create_cluster.py:76} WARNING - Cannot download spark
+[15:10:57] {create_cluster.py:77} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1057eba00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:10:57] {create_cluster.py:95} INFO - Fetching if network with name:cluster_network already exists
+[15:10:57] {create_cluster.py:97} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[15:10:57] {create_cluster.py:101} INFO - Removing network with id:d2186392b4
+[15:10:57] {create_cluster.py:107} INFO - Preparing containers
+[15:10:57] {create_cluster.py:112} INFO - preparing master1
+[15:20:28] {create_cluster.py:68} INFO - downloading data
+[15:20:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105b56a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105b568b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105b56a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:28] {create_cluster.py:96} INFO - Fetching if network with name:cluster_network already exists
+[15:20:28] {create_cluster.py:98} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[15:20:28] {create_cluster.py:102} INFO - Removing network with id:5800e0b6ac
+[15:20:28] {create_cluster.py:108} INFO - Preparing containers
+[15:20:28] {create_cluster.py:113} INFO - preparing master1
+[15:20:37] {create_cluster.py:68} INFO - downloading data
+[15:20:37] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:37] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x101ffea00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:37] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:37] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x101ffe8b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:37] {create_cluster.py:77} WARNING - Cannot download spark
+[15:20:37] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x101ffea00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:20:37] {create_cluster.py:96} INFO - Fetching if network with name:cluster_network already exists
+[15:20:37] {create_cluster.py:98} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[15:20:37] {create_cluster.py:102} INFO - Removing network with id:b6bf7250de
+[15:20:37] {create_cluster.py:108} INFO - Preparing containers
+[15:20:37] {create_cluster.py:113} INFO - preparing master1
+[15:21:03] {create_cluster.py:68} INFO - downloading data
+[15:21:03] {create_cluster.py:77} WARNING - Cannot download spark
+[15:21:03] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x101506a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:21:03] {create_cluster.py:77} WARNING - Cannot download spark
+[15:21:03] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1015068b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:21:03] {create_cluster.py:77} WARNING - Cannot download spark
+[15:21:03] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x101506a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:21:03] {create_cluster.py:96} INFO - Fetching if network with name:cluster_network already exists
+[15:21:03] {create_cluster.py:98} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[15:21:03] {create_cluster.py:102} INFO - Removing network with id:b370e4218c
+[15:21:03] {create_cluster.py:108} INFO - Preparing containers
+[15:21:03] {create_cluster.py:113} INFO - preparing master1
+[15:22:28] {create_cluster.py:68} INFO - downloading data
+[15:22:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1020f79d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1020f7880>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:28] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:28] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1020f79d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:28] {create_cluster.py:82} INFO - Pulling ubuntu:latest image
+[15:22:34] {create_cluster.py:68} INFO - downloading data
+[15:22:34] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:34] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060df9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:34] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:34] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060df880>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:34] {create_cluster.py:77} WARNING - Cannot download spark
+[15:22:34] {create_cluster.py:78} WARNING - HTTPSConnectionPool(host='dlcdn.apache.org', port=443): Max retries exceeded with url: /spark/spark-3.2.1/spark-3.2.1-bin-hadoop3.2.tgz (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060df9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[15:22:34] {create_cluster.py:82} INFO - Pulling ubuntu:latest image
+[17:05:27] {create_cluster.py:68} INFO - downloading data
+[17:07:18] {create_cluster.py:68} INFO - downloading data
+[17:08:13] {create_cluster.py:82} INFO - Pulling ubuntu:latest image
+[17:08:20] {create_cluster.py:84} INFO - PULLED ubuntu:latest image...complete
+[17:08:20] {create_cluster.py:99} INFO - Fetching if network with name:cluster_network already exists
+[17:08:20] {create_cluster.py:101} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[17:08:20] {create_cluster.py:105} INFO - Removing network with id:941e4ef194
+[17:08:20] {create_cluster.py:111} INFO - Preparing containers
+[17:08:20] {create_cluster.py:116} INFO - preparing master1
+[17:08:20] {create_cluster.py:139} INFO - prepared master1
+[17:08:20] {create_cluster.py:141} INFO - copying slaves file as backup 
+[17:08:20] {create_cluster.py:145} INFO - starting ssh service in master1
+[17:08:20] {create_cluster.py:149} INFO - copying slaves file from asset to trigger spark on cluster 
+[17:08:20] {create_cluster.py:155} INFO - preparing list of workers
+[17:08:20] {create_cluster.py:158} INFO - preparing worker1
+[17:08:21] {create_cluster.py:181} INFO - starting ssh servie in worker1 
+[17:08:21] {create_cluster.py:184} INFO - prepared worker1
+[17:08:21] {create_cluster.py:188} INFO - Running spark in cluster mode 
+[17:17:02] {create_cluster.py:204} INFO - Attempting to remove container: master1
+[17:17:12] {create_cluster.py:207} INFO - Removed container: master1
+[17:17:12] {create_cluster.py:204} INFO - Attempting to remove container: worker1
+[17:17:22] {create_cluster.py:207} INFO - Removed container: worker1
+[17:17:22] {create_cluster.py:209} INFO - Attempting to remove network: cluster_network
+[17:17:23] {create_cluster.py:213} INFO - Removed network:cluster_network with id:1c9d0da965
+[17:20:58] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[17:20:58] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[17:20:58] {create_cluster.py:135} INFO - Preparing containers
+[17:20:58] {create_cluster.py:140} INFO - preparing master1
+[17:20:59] {create_cluster.py:163} INFO - prepared master1
+[17:20:59] {create_cluster.py:165} INFO - copying slaves file as backup 
+[17:20:59] {create_cluster.py:169} INFO - starting ssh service in master1
+[17:20:59] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[17:20:59] {create_cluster.py:179} INFO - preparing list of workers
+[17:20:59] {create_cluster.py:182} INFO - preparing worker1
+[17:20:59] {create_cluster.py:205} INFO - starting ssh servie in worker1 
+[17:20:59] {create_cluster.py:208} INFO - prepared worker1
+[17:20:59] {create_cluster.py:212} INFO - Running spark in cluster mode 
+[17:21:28] {create_cluster.py:228} INFO - Attempting to remove container: master1
+[17:21:38] {create_cluster.py:231} INFO - Removed container: master1
+[17:21:38] {create_cluster.py:228} INFO - Attempting to remove container: worker1
+[17:21:48] {create_cluster.py:231} INFO - Removed container: worker1
+[17:21:48] {create_cluster.py:233} INFO - Attempting to remove network: cluster_network
+[17:21:48] {create_cluster.py:237} INFO - Removed network:cluster_network with id:e32e31b3bf
+[17:22:42] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[17:22:42] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[17:22:43] {create_cluster.py:135} INFO - Preparing containers
+[17:22:43] {create_cluster.py:140} INFO - preparing master1
+[17:22:43] {create_cluster.py:163} INFO - prepared master1
+[17:22:43] {create_cluster.py:165} INFO - copying slaves file as backup 
+[17:22:43] {create_cluster.py:169} INFO - starting ssh service in master1
+[17:22:43] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[17:22:43] {create_cluster.py:179} INFO - preparing list of workers
+[17:22:43] {create_cluster.py:182} INFO - preparing worker1
+[17:22:43] {create_cluster.py:205} INFO - starting ssh servie in worker1 
+[17:22:44] {create_cluster.py:208} INFO - prepared worker1
+[17:22:44] {create_cluster.py:182} INFO - preparing worker2
+[17:22:44] {create_cluster.py:205} INFO - starting ssh servie in worker2 
+[17:22:44] {create_cluster.py:208} INFO - prepared worker2
+[17:22:44] {create_cluster.py:212} INFO - Running spark in cluster mode 
+[17:29:06] {create_cluster.py:228} INFO - Attempting to remove container: master1
+[17:29:06] {create_cluster.py:231} INFO - Removed container: master1
+[17:29:06] {create_cluster.py:228} INFO - Attempting to remove container: worker1
+[17:29:06] {create_cluster.py:231} INFO - Removed container: worker1
+[17:29:06] {create_cluster.py:228} INFO - Attempting to remove container: worker2
+[17:29:06] {create_cluster.py:231} INFO - Removed container: worker2
+[17:29:06] {create_cluster.py:233} INFO - Attempting to remove network: cluster_network
+[17:29:06] {create_cluster.py:237} INFO - Removed network:cluster_network with id:7f4af0f977
+[18:00:24] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:00:24] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:00:24] {create_cluster.py:135} INFO - Preparing containers
+[18:00:24] {create_cluster.py:140} INFO - preparing master1
+[18:00:24] {create_cluster.py:163} INFO - prepared master1
+[18:00:24] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:00:24] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:00:24] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:00:24] {create_cluster.py:179} INFO - preparing list of workers
+[18:00:24] {create_cluster.py:182} INFO - preparing worker1
+[18:00:25] {create_cluster.py:205} INFO - starting ssh servie in worker1 
+[18:00:25] {create_cluster.py:208} INFO - prepared worker1
+[18:00:25] {create_cluster.py:182} INFO - preparing worker2
+[18:00:25] {create_cluster.py:205} INFO - starting ssh servie in worker2 
+[18:00:25] {create_cluster.py:208} INFO - prepared worker2
+[18:00:25] {create_cluster.py:212} INFO - Running spark in cluster mode 
+[18:03:57] {create_cluster.py:228} INFO - Attempting to remove container: master1
+[18:04:07] {create_cluster.py:231} INFO - Removed container: master1
+[18:04:07] {create_cluster.py:228} INFO - Attempting to remove container: worker1
+[18:04:17] {create_cluster.py:231} INFO - Removed container: worker1
+[18:04:17] {create_cluster.py:228} INFO - Attempting to remove container: worker2
+[18:04:27] {create_cluster.py:231} INFO - Removed container: worker2
+[18:04:27] {create_cluster.py:233} INFO - Attempting to remove network: cluster_network
+[18:04:27] {create_cluster.py:237} INFO - Removed network:cluster_network with id:4a8d06d889
+[18:04:31] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:04:31] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:04:31] {create_cluster.py:135} INFO - Preparing containers
+[18:04:31] {create_cluster.py:140} INFO - preparing master1
+[18:04:32] {create_cluster.py:163} INFO - prepared master1
+[18:04:32] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:04:32] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:04:32] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:04:32] {create_cluster.py:179} INFO - preparing list of workers
+[18:04:32] {create_cluster.py:183} INFO - preparing worker1
+[18:04:32] {create_cluster.py:206} INFO - starting ssh servie in worker1 
+[18:04:32] {create_cluster.py:209} INFO - prepared worker1
+[18:04:32] {create_cluster.py:183} INFO - preparing worker2
+[18:05:05] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:05:05] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:05:05] {create_cluster.py:129} INFO - Removing network with id:e0f78a15e1
+[18:05:21] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:05:21] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:05:21] {create_cluster.py:129} INFO - Removing network with id:e0f78a15e1
+[18:05:56] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:05:56] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:05:56] {create_cluster.py:129} INFO - Removing network with id:e0f78a15e1
+[18:05:56] {create_cluster.py:135} INFO - Preparing containers
+[18:05:56] {create_cluster.py:140} INFO - preparing master1
+[18:05:57] {create_cluster.py:163} INFO - prepared master1
+[18:05:57] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:05:57] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:05:57] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:05:57] {create_cluster.py:179} INFO - preparing list of workers
+[18:05:57] {create_cluster.py:183} INFO - preparing worker1
+[18:05:57] {create_cluster.py:206} INFO - starting ssh servie in worker1 
+[18:05:57] {create_cluster.py:209} INFO - prepared worker1
+[18:05:57] {create_cluster.py:183} INFO - preparing worker2
+[18:06:44] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:06:44] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:06:44] {create_cluster.py:129} INFO - Removing network with id:df95fa7f0e
+[18:06:44] {create_cluster.py:135} INFO - Preparing containers
+[18:06:44] {create_cluster.py:140} INFO - preparing master1
+[18:06:44] {create_cluster.py:163} INFO - prepared master1
+[18:06:44] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:06:44] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:06:44] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:06:44] {create_cluster.py:179} INFO - preparing list of workers
+[18:06:44] {create_cluster.py:183} INFO - preparing worker1
+[18:06:45] {create_cluster.py:206} INFO - starting ssh servie in worker1 
+[18:06:45] {create_cluster.py:209} INFO - prepared worker1
+[18:06:45] {create_cluster.py:183} INFO - preparing worker2
+[18:07:27] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:07:27] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:07:27] {create_cluster.py:129} INFO - Removing network with id:4f55f14a8c
+[18:07:27] {create_cluster.py:135} INFO - Preparing containers
+[18:07:27] {create_cluster.py:140} INFO - preparing master1
+[18:07:27] {create_cluster.py:163} INFO - prepared master1
+[18:07:27] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:07:27] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:07:27] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:07:27] {create_cluster.py:179} INFO - preparing list of workers
+[18:07:27] {create_cluster.py:183} INFO - preparing worker1
+[18:07:27] {create_cluster.py:206} INFO - starting ssh servie in worker1 
+[18:07:27] {create_cluster.py:209} INFO - prepared worker1
+[18:07:27] {create_cluster.py:183} INFO - preparing worker2
+[18:07:28] {create_cluster.py:206} INFO - starting ssh servie in worker2 
+[18:07:28] {create_cluster.py:209} INFO - prepared worker2
+[18:07:28] {create_cluster.py:213} INFO - Running spark in cluster mode 
+[18:16:26] {create_cluster.py:229} INFO - Attempting to remove container: master1
+[18:16:36] {create_cluster.py:232} INFO - Removed container: master1
+[18:16:36] {create_cluster.py:229} INFO - Attempting to remove container: worker1
+[18:16:46] {create_cluster.py:232} INFO - Removed container: worker1
+[18:16:46] {create_cluster.py:229} INFO - Attempting to remove container: worker2
+[18:16:57] {create_cluster.py:232} INFO - Removed container: worker2
+[18:16:57] {create_cluster.py:234} INFO - Attempting to remove network: cluster_network
+[18:16:57] {create_cluster.py:238} INFO - Removed network:cluster_network with id:a5e35ad57e
+[18:17:40] {create_cluster.py:123} INFO - Fetching if network with name:cluster_network already exists
+[18:17:40] {create_cluster.py:125} WARNING - Network with same name:cluster_network already exists. Attempting to remove them
+[18:17:40] {create_cluster.py:135} INFO - Preparing containers
+[18:17:40] {create_cluster.py:140} INFO - preparing master1
+[18:17:40] {create_cluster.py:163} INFO - prepared master1
+[18:17:40] {create_cluster.py:165} INFO - copying slaves file as backup 
+[18:17:41] {create_cluster.py:169} INFO - starting ssh service in master1
+[18:17:41] {create_cluster.py:173} INFO - copying slaves file from asset to trigger spark on cluster 
+[18:17:41] {create_cluster.py:179} INFO - preparing list of workers
+[18:17:41] {create_cluster.py:183} INFO - preparing worker1
+[18:17:41] {create_cluster.py:206} INFO - starting ssh servie in worker1 
+[18:17:41] {create_cluster.py:210} INFO - prepared worker1
+[18:17:41] {create_cluster.py:183} INFO - preparing worker2
+[18:17:41] {create_cluster.py:206} INFO - starting ssh servie in worker2 
+[18:17:41] {create_cluster.py:210} INFO - prepared worker2
+[18:17:41] {create_cluster.py:214} INFO - Running spark in cluster mode 
+[00:00:53] {create_cluster.py:230} INFO - Attempting to remove container: master1
+[00:01:03] {create_cluster.py:233} INFO - Removed container: master1
+[00:01:03] {create_cluster.py:230} INFO - Attempting to remove container: worker1
+[00:01:13] {create_cluster.py:233} INFO - Removed container: worker1
+[00:01:13] {create_cluster.py:230} INFO - Attempting to remove container: worker2
+[00:01:24] {create_cluster.py:233} INFO - Removed container: worker2
+[00:01:24] {create_cluster.py:235} INFO - Attempting to remove network: cluster_network
+[00:01:24] {create_cluster.py:239} INFO - Removed network:cluster_network with id:41cfecf2e7
